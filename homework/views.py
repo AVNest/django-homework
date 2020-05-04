@@ -46,8 +46,10 @@ class Statistics:
     # student_id, [Scores]
     pass
 
+
 class Subject:
     pass
+
 
 class Score:
     # Subject, Student, value
